@@ -221,7 +221,7 @@ Visión: EcoRoute será una de las principales causas en la reducción de la con
         <td>Mi nombre es Alejandro Nicolas Barturen Guzman. Tengo 20 años y estoy estudiando la carrera de ingeniería de software en la UPC y me encuentro en 5to ciclo. Soy una persona imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También me considero  colaborativo y ordenado  lo que facilita el trabajo en equipo con mis compañeros.Tengo conocimiento  de los lenguajes de programación C++, Python, Java y Javascript. Además, tengo conocimiento de UI,  UX  y software de control de versiones. </td>
     </tr>
     <tr>
-        <td> <img src="imgs/integrante-martinez.png"></td>
+        <td> <img src="imgs/integrante-martinez.jpeg"></td>
         <td>Mi nombre es Piero Alonso Martinez Villanueva. Me encuentro estudiando la carrera de Ingeniería de Software y tengo 22 años. Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces, siendo puntual con los plazos establecidos en la elaboración de los proyectos. Me gusta aprender sobre nuevas tecnologías, además de ser paciente y perseverante en el desarrrollo de un proyecto. Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML y en programas de diseño como Illustrator, Photoshop, CorelDraw y Maya3D. </td>
     </tr>
 
