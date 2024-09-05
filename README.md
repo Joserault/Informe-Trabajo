@@ -24,7 +24,7 @@
 | Barturen Guzman, Alejandro Nicolas     | U202214406    |
 | Pachas Chavez, Alejandro Alberto       | U201917598    |
 | Martinez Villanueva, Piero Alonso      | U202113821    |
-|      |     |
+|  Chirito Torres Jose Raul              |  U20201A293   |
 |               |      |
 |           |      |
 
@@ -229,6 +229,14 @@ Visión: EcoRoute será una de las principales causas en la reducción de la con
         <td> <img src="imgs/integrante-martinez.jpeg"></td>
         <td>Mi nombre es Piero Alonso Martinez Villanueva. Me encuentro estudiando la carrera de Ingeniería de Software y tengo 22 años. Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces, siendo puntual con los plazos establecidos en la elaboración de los proyectos. Me gusta aprender sobre nuevas tecnologías, además de ser paciente y perseverante en el desarrrollo de un proyecto. Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML y en programas de diseño como Illustrator, Photoshop, CorelDraw y Maya3D. </td>
     </tr>
+
+ <tr>
+        <td> <img src=""></td>
+        <td>Mi nombre es Jose Raul Chirito Torres. Tengo 21 años y estudio la carrera de Ing. de Software .
+Tengo conocimientos sobre Python, C++, C# y HTML. 
+
+   </td>
+    </tr>   
 
 </table>
 
