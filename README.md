@@ -1225,9 +1225,24 @@ El tono comunicativo de EcoRoute debe ser claro y profesional, ajustado a un pú
 - **Respetuoso/Irreverente:** Respetuoso, acorde con las expectativas de un público corporativo.
 - **Entusiasta/Sereno:** Sereno, para inspirar confianza y estabilidad en las soluciones que ofrece EcoRoute.
 
-
 ### **4.1.2. Web Style Guidelines**
+#### Responsive Design
+EcoRoute adopta un diseño responsive que asegura una experiencia de usuario óptima en cualquier dispositivo. La estructura se adapta fluidamente desde pantallas móviles hasta escritorios grandes, garantizando la accesibilidad y la funcionalidad en todo momento.
+- **Grid System:** Sistema de 12 columnas, adaptable para diferentes resoluciones.
+- **Breakpoints:** Optimización para resoluciones clave (320px, 768px, 1024px, 1440px).
 
+#### Visuals Standard
+La guía visual sigue un enfoque minimalista, utilizando una combinación de colores, tipografía y espaciado para crear una interfaz coherente y fácil de usar:
+- **Botones:** Estilo plano con bordes redondeados de 4px, color primario en Verde Esmeralda, y texto en blanco para asegurar contraste.
+- **Iconografía:** Iconos lineales, diseñados en estilo geométrico, con Gris Pizarra para iconos secundarios y Verde Menta para iconos de acción.
+- **Imágenes:** Uso de imágenes de alta resolución, enfocadas en temas de sostenibilidad y tecnología, alineadas al centro o justificado a la izquierda según la necesidad del diseño.
+- **Layout:** Estructura modular con bloques de contenido claramente separados, utilizando suficiente espacio en blanco para evitar la sobrecarga de información.
+
+#### Interaction Standards
+Las interacciones son suaves y consistentes, enfocadas en la experiencia del usuario:
+- **Hover Effects:** Efectos de hover con cambios de color suaves y transiciones de 200ms para botones y enlaces.
+- **Feedback Visual:** Indicadores claros para acciones completadas o errores, con uso de colores específicos como Rojo (#FF6F61) para errores y Verde (#32CD32) para acciones exitosas.
+- **Transiciones:** Efectos de transición entre secciones y páginas de 300ms para una experiencia fluida.
 
 ## **4.2. Information Architecture**
 ### **4.2.1. Organization Systems**
