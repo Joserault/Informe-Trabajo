@@ -22,7 +22,7 @@
 | Miembro                                |    Código     |
 | :------------------------------------- | :-----------: |
 | Barturen Guzman, Alejandro Nicolas     | U202214406    |
-|     |    |
+| Pachas Chavez, Alejandro Alberto       | U201917598    |
 | Martinez Villanueva, Piero Alonso      | U202113821    |
 |      |     |
 |               |      |
@@ -219,6 +219,11 @@ Visión: EcoRoute será una de las principales causas en la reducción de la con
       <tr>
         <td> <img src="imgs/integrante-barturen.png"></td>
         <td>Mi nombre es Alejandro Nicolas Barturen Guzman. Tengo 20 años y estoy estudiando la carrera de ingeniería de software en la UPC y me encuentro en 5to ciclo. Soy una persona imaginativa, lo que me ayuda a aportar soluciones para resolver los problemas en común. También me considero  colaborativo y ordenado  lo que facilita el trabajo en equipo con mis compañeros.Tengo conocimiento  de los lenguajes de programación C++, Python, Java y Javascript. Además, tengo conocimiento de UI,  UX  y software de control de versiones. </td>
+    </tr>
+   <tr>
+        <td> <img src="imgs/integrante-pachas.jpeg"></td>
+        <td>Mi nombre es Alejandro. Cuento con más de 3 años en el mundo de la programación, cuento con experiencia con tecnologías de desarrollo web y frameworks tales como Laravel, Nuxtjs, Tailwinds y i18n. Además, he emprendido pequeños proyectos por mi cuenta en el campo de la tecnología.
+   </td>
     </tr>
     <tr>
         <td> <img src="imgs/integrante-martinez.jpeg"></td>
