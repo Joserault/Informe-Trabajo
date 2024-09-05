@@ -1189,12 +1189,28 @@ EcoRoute es una plataforma que optimiza las cadenas de suministro con un enfoque
 
 #### Typography
 La elección de la tipografía es clave para la legibilidad y percepción del usuario. Se han seleccionado fuentes que equilibren modernidad y claridad, con una jerarquía tipográfica bien definida:
-- **Títulos y Encabezados:** "Montserrat Bold", para destacar la información clave con una presencia sólida y moderna.
+- **Títulos y Encabezados** <br>
+Montserrat Bold, para destacar la información clave con una presencia sólida y moderna.
 <p align="center"><img src="imgs/montserrat-typography.jpg"></p> 
   
-- **Cuerpo de Texto:** "Roboto Regular", que asegura legibilidad en largas lecturas y en cualquier dispositivo.
-- **Subtítulos:** Roboto Medium, que proporciona un contraste suficiente con los títulos y mantiene la cohesión visual.
+- **Cuerpo de Texto y Subtítulos** <br>
+Roboto Regular, que asegura legibilidad en largas lecturas y en cualquier dispositivo, además de proporcionar un contraste suficiente con los títulos y mantiene la cohesión visual.
 <p align="center"><img src="imgs/roboto-typography.png"></p>
+
+#### Colors
+La paleta de colores está diseñada para reflejar los valores de EcoRoute, con un enfoque en la sostenibilidad y la tecnología:
+- **Color Primario** <br>
+  - *Verde Esmeralda (#2E8B57).-* Color principal para encabezados, botones de llamada a la acción (CTA), y elementos clave que requieren énfasis. Representa la sostenibilidad y el enfoque ecológico de la plataforma.
+<p align="center"><img src="imgs/color-primary.png" height="400px" height="500px"></p>
+
+- **Colores Secundarios** <br>
+  - *Verde Esmeralda (#2E8B57).-* Color principal para encabezados, botones de llamada a la acción (CTA), y elementos clave que requieren énfasis. Representa la sostenibilidad y el enfoque ecológico de la plataforma.
+  - *Azul Océano (#1E3A5F).-* Color secundario para fondos de secciones, enlaces, y elementos interactivos. Simboliza confianza, estabilidad y tecnología, añadiendo una sensación profesional a la página.
+  - *Gris Pizarra (#4A4A4A).-* Texto principal y subtítulos, íconos, y bordes. Transmite modernidad y profesionalismo, ideal para un diseño limpio y sofisticado.
+  - *Blanco Puro (#FFFFFF).-* Fondo principal para la app y landing page, garantizando una interfaz limpia y fácil de navegar. Simboliza claridad y simplicidad, proporcionando un buen contraste con los colores más oscuros.
+  - *Verde Menta (#98FF98).-* Colores de acento para destacar detalles, hover effects, y elementos de soporte visual. Aporta frescura y refuerza la temática ecológica, manteniendo un aspecto fresco y amigable.
+  - *Azul Claro (#E6F7FF).-* Fondos de secciones secundarias, tarjetas de información, y gráficos. Añade un toque suave y profesional que complementa el azul más oscuro.
+<p align="center"><img src="imgs/color-palette-secondary.png"></p>  
 
 ### **4.1.2. Web Style Guidelines**
 
