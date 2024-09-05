@@ -659,6 +659,12 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
+**Segmento 1:** Empresas de Manufactura.  
+<img src="imgs/user-personas/user-persona.Empresa-Manufacturera.png" alt="User Persona" style="width:100%;">
+
+**Segmento 2:** Empresas de Logística y Transporte.
+<img src="imgs/user-personas/user-persona.Empresa-Logistica.png" alt="User Persona" style="width:100%;">
+
 ### **2.3.2. User Task Matrix**
 ### **2.3.3. User Journey Mapping**
 ### **2.3.4. Empathy Mapping**
