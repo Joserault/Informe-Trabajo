@@ -1177,8 +1177,27 @@ Posicionar a EcoRoute como no solo una solución sostenible, sino también una h
 # <font color="red">**Capítulo IV: Product Design**</font>
 
 ## **4.1. Style Guidelines**
+Un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñar o presentar documentos, contenido web, software o cualquier otro tipo de trabajo creativo se conoce como "style guidelines" o guías de estilo. A continuación, se describen los parámetros que se implementaron en la estructura del proyecto.
+
 ### **4.1.1. General Style Guidelines**
+#### Branding
+EcoRoute es una plataforma que optimiza las cadenas de suministro con un enfoque en sostenibilidad. La identidad visual debe comunicar claramente estos valores, usando un diseño limpio, moderno y enfocado en la eficiencia. El branding se articula en torno a los siguientes principios:
+
+- **Sostenibilidad:** El uso predominante del verde simboliza el compromiso con el medio ambiente.
+- **Innovación Tecnológica:** Se refleja en la tipografía moderna y la interfaz minimalista.
+- **Confiabilidad:** Elementos visuales claros y estructurados que transmiten confianza.
+
+#### Typography
+La elección de la tipografía es clave para la legibilidad y percepción del usuario. Se han seleccionado fuentes que equilibren modernidad y claridad, con una jerarquía tipográfica bien definida:
+- **Títulos y Encabezados:** "Montserrat Bold", para destacar la información clave con una presencia sólida y moderna.
+<p align="center"><img src="imgs/montserrat-typography.jpg"></p> 
+  
+- **Cuerpo de Texto:** "Roboto Regular", que asegura legibilidad en largas lecturas y en cualquier dispositivo.
+- **Subtítulos:** Roboto Medium, que proporciona un contraste suficiente con los títulos y mantiene la cohesión visual.
+<p align="center"><img src="imgs/roboto-typography.png"></p>
+
 ### **4.1.2. Web Style Guidelines**
+
 
 ## **4.2. Information Architecture**
 ### **4.2.1. Organization Systems**
