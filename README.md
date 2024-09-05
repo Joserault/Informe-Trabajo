@@ -1246,10 +1246,42 @@ Las interacciones son suaves y consistentes, enfocadas en la experiencia del usu
 
 ## **4.2. Information Architecture**
 ### **4.2.1. Organization Systems**
+La organización del contenido en EcoRoute se basa en principios de jerarquía visual y categorización lógica para garantizar que los usuarios puedan acceder a la información con facilidad:
+Jerarquía Visual: Los elementos clave se destacan mediante el tamaño y el color, asegurando que los usuarios enfoquen su atención en las áreas más importantes primero.
+- **Categorización:**
+  - **Por Tópicos.-** Se utiliza para agrupar contenido relacionado con sostenibilidad, proveedores, y optimización.
+  - **Por Audiencia.-** Diferenciación de contenido para PYMEs, grandes corporaciones y consultores.
+  - **Organización Secuencial.-** En los flujos de trabajo como la evaluación de proveedores, se guía al usuario paso a paso.
+
 ### **4.2.2. Labeling Systems**
+Las etiquetas son claras, concisas y optimizadas para evitar la confusión, utilizando un lenguaje simple pero específico:
+
+Ejemplos de Etiquetas:
+- **"Proveedores"** para la sección que evalúa la eficiencia y sostenibilidad de los proveedores.
+- **"Impacto Ambiental"** para la sección que analiza el impacto ecológico de las operaciones.
+- **"Optimización"** para las herramientas y recursos destinados a mejorar la eficiencia.
+
 ### **4.2.3. SEO Tags and Meta Tags**
+Las siguientes etiquetas SEO se implementan para asegurar que el sitio sea fácilmente encontrado por motores de búsqueda y que los metadatos sean relevantes:
+
+- ***Title:*** "EcoRoute - Optimización Sostenible de Cadenas de Suministro"
+- ***Meta Description:*** "EcoRoute es la plataforma líder en la optimización sostenible de cadenas de suministro, ofreciendo análisis exhaustivo de proveedores, impacto ambiental y herramientas de optimización logística."
+- ***Keywords:*** "EcoRoute, optimización, sostenibilidad, cadenas de suministro, GreenSync"
+- ***Author:*** "GreenSync"
+
 ### **4.2.4. Searching Systems**
+El sistema de búsqueda es robusto y está diseñado para manejar grandes volúmenes de información, asegurando que los usuarios puedan encontrar lo que necesitan sin esfuerzo:
+
+- **Barra de Búsqueda:** Siempre visible en la parte superior de la interfaz, con auto-completado basado en las entradas más comunes.
+- **Filtros de Búsqueda:** Permite a los usuarios filtrar resultados por tipo de proveedor, impacto ambiental, nivel de optimización, entre otros.
+- **Resultados de Búsqueda:** Presentación clara y categorizada de los resultados, con opciones para ordenar y refinar aún más la búsqueda.
+
 ### **4.2.5. Navigation Systems**
+El sistema de navegación está diseñado para ser intuitivo y eficiente, permitiendo a los usuarios encontrar fácilmente la información que necesitan:
+
+- **Menú Principal:** Barra superior fija con las siguientes secciones: Inicio, Proveedores, Impacto Ambiental, Optimización, Contacto.
+- **Breadcrumbs:** Incluidos en la aplicación para facilitar la navegación dentro de las secciones y sub-secciones más complejas.
+- **CTAs:** Botones prominentes en Verde Esmeralda, estratégicamente ubicados para maximizar la conversión y la interacción.
 
 ## **4.3. Landing Page UI Design**
 ### **4.3.1. Landing Page Wireframe**
