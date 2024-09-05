@@ -1212,6 +1212,20 @@ La paleta de colores está diseñada para reflejar los valores de EcoRoute, con 
   - *Azul Claro (#E6F7FF).-* Fondos de secciones secundarias, tarjetas de información, y gráficos. Añade un toque suave y profesional que complementa el azul más oscuro.
 <p align="center"><img src="imgs/color-palette-secondary.png"></p>  
 
+#### Spacing
+El espaciado en la interfaz es fundamental para la claridad y la usabilidad. Se han definido márgenes y paddings específicos para mantener la coherencia y evitar el amontonamiento de contenido:
+- **Margen entre Secciones:** 32px, para separar visualmente grandes bloques de contenido.
+- **Padding Interno:** 16px, dentro de contenedores y botones para asegurar confort visual.
+- **Espaciado entre Elementos de Texto:** 8px entre párrafos y 16px entre secciones textuales, facilitando la lectura y la navegación.
+
+#### Tono de comunicación y Lenguaje aplicativo
+El tono comunicativo de EcoRoute debe ser claro y profesional, ajustado a un público empresarial pero accesible:
+- **Divertido/Serio:** Serio, dado el enfoque profesional.
+- **Formal/Casual:** Formal, reflejando la naturaleza B2B de la plataforma.
+- **Respetuoso/Irreverente:** Respetuoso, acorde con las expectativas de un público corporativo.
+- **Entusiasta/Sereno:** Sereno, para inspirar confianza y estabilidad en las soluciones que ofrece EcoRoute.
+
+
 ### **4.1.2. Web Style Guidelines**
 
 
