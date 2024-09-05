@@ -24,7 +24,7 @@
 | Barturen Guzman, Alejandro Nicolas     | U202214406    |
 |     |    |
 | Martinez Villanueva, Piero Alonso      | U202113821    |
-|      |     |
+| Chirito Torres Jose Raul               | U20201A293    |
 |               |      |
 |           |      |
 
